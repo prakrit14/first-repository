@@ -1,2 +1,1 @@
-# first-repository
-my first repository
+prakrit's repository
