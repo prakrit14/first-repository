@@ -1,3 +1,4 @@
+# a simple rock paper scissor game... enjoy!
 import random
 x=random.randint(1,3)
 
